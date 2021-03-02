@@ -1,5 +1,5 @@
 import random from "./random";
-import range from "./range";
+import range from "../range/range";
 
 // TODO: Consider setting seed for random generator for more consistent results?
 describe("random", () => {

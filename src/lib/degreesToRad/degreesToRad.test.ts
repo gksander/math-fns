@@ -1,4 +1,4 @@
-import radToDegrees from "./radToDegrees";
+import radToDegrees from "../radToDegrees/radToDegrees";
 import degreesToRad from "./degreesToRad";
 
 describe("radToDegrees", () => {

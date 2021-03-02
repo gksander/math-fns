@@ -1,5 +1,5 @@
 import round from "./round";
-import { ceil, floor } from "../index";
+import { ceil, floor } from "../../index";
 
 describe("round", () => {
   it("rounds to whole number", () => {
