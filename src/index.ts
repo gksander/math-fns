@@ -1,1 +1,1 @@
-export { default as clamp } from "./lib/clamp";
+export { default as clamp } from "./lib/clamp/clamp";
