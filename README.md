@@ -9,6 +9,6 @@ A collection of Math Functions.
 - [x] round
 - [x] random
 - [ ] distance
-- [ ] radToDegrees
-- [ ] degreesToRad
+- [x] radToDegrees
+- [x] degreesToRad
 - [ ] factorial
