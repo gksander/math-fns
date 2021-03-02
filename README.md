@@ -7,7 +7,7 @@ A collection of Math Functions.
 - [x] clamp
 - [x] range
 - [x] round
-- [ ] random
+- [x] random
 - [ ] distance
 - [ ] radToDegrees
 - [ ] degreesToRad
