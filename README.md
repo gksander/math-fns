@@ -5,8 +5,8 @@ A collection of Math Functions.
 ## TODO:
 
 - [x] clamp
-- [ ] range
-- [ ] round
+- [x] range
+- [x] round
 - [ ] random
 - [ ] distance
 - [ ] radToDegrees

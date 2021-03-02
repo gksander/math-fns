@@ -37,7 +37,7 @@ describe("range", () => {
   it("should allow for step sizes other than 1", () => {
     const values = range({ start: 0, stop: 9, step: 0.2 });
     expect(values[0]).toBe(0);
-    expectg(values[1]).toBeCloseTo(0.2);
+    expect(values[1]).toBeCloseTo(0.2);
     expect(values[values.length - 2]).toBeCloseTo(8.8);
     expect(values[values.length - 1]).toBeCloseTo(9);
   });
